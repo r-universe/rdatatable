@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "data.table"]
+	path = data.table
+	url = https://github.com/rdatatable/data.table
+	shallow = true
+	registered = true
